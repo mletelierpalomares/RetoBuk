@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InicioSesion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63516ca2-b00a-40bf-abee-a366cf621a30</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2706587e-8a41-467d-a1c4-26dbe59a1b52</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23c702be-8105-45ef-8bae-d5a6408be6c1</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

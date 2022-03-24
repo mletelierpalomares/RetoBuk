@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Compra</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac3921a3-f54a-4bad-bd7a-bc0fe4500457</testCaseGuid>
+   <variable>
+      <defaultValue>'Marcelo'</defaultValue>
+      <description></description>
+      <id>e498842d-78ea-4fc4-a30b-104cad6c28a6</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

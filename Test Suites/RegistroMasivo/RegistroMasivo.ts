@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>RegistroMasivo</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>978679dc-46a1-409e-802a-e3fff17d1d18</testSuiteGuid>
+   <testCaseLink>
+      <guid>e371cffb-2bd6-4b27-a5e2-c55f05cc40c8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CreacionUsuario/CreaciónUsuario</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>97c413dc-35d5-4eaf-9a7d-5effc6ce83e2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ArchivosCSV/RegistroMasivo</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>97c413dc-35d5-4eaf-9a7d-5effc6ce83e2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Usuario</value>
+         <variableId>08e30dd1-38b8-4f94-9ada-5b0562edffb2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>97c413dc-35d5-4eaf-9a7d-5effc6ce83e2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>f35dd351-5ddc-4255-a16e-9103951e18ed</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "7EA18C24DADFAF04ECB1DD242959365F",
+  "keywordClasses": [
+    {
+      "name": "com.help.compraMultiple.CompraMultipleK",
+      "keywordMethods": [
+        {
+          "name": "compra",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

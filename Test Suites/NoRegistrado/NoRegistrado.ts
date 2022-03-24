@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>NoRegistrado</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>ff4887e9-4faa-4646-a15d-0138361864ed</testSuiteGuid>
+   <testCaseLink>
+      <guid>8e93dcb0-03fc-4446-a0ac-631d009fa47d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/InicioSesion/InicioSesion</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>982b82c5-3072-4624-abf1-682eb7f408d1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ArchivosCSV/NoRegistrados</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>982b82c5-3072-4624-abf1-682eb7f408d1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Usuario</value>
+         <variableId>2706587e-8a41-467d-a1c4-26dbe59a1b52</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>982b82c5-3072-4624-abf1-682eb7f408d1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>23c702be-8105-45ef-8bae-d5a6408be6c1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreacionUsuarioAleatorio</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5740921-4405-4bd0-80bc-196c34392240</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cfbf5e0c-a758-4587-9135-a49963f3ec53</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>798839ef-67b2-4c22-913d-1c6d42b4beb6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

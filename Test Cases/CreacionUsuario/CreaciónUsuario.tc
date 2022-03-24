@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreaciónUsuario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>185c9f13-645a-4e54-9c22-a1cbefb408c1</testCaseGuid>
+   <variable>
+      <defaultValue>'MarceloLetelierBuck1'</defaultValue>
+      <description></description>
+      <id>08e30dd1-38b8-4f94-9ada-5b0562edffb2</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>'Marcelo1234'</defaultValue>
+      <description></description>
+      <id>f35dd351-5ddc-4255-a16e-9103951e18ed</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
