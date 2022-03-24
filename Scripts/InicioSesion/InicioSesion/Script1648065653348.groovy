@@ -38,17 +38,17 @@ if (Existe == true) {
 
     WebUI.click(findTestObject('InicioSesion/CampoSingUp'))
 
-    WebUI.setText(findTestObject('CreacionUsuario/CampoUserName'), 'MarceloPrueba1')
+    WebUI.setText(findTestObject('CreacionUsuario/CampoUserName'), Usuario)
 
-    WebUI.setText(findTestObject('CreacionUsuario/CampoPassword'), 'Marcelo1234')
+    WebUI.setText(findTestObject('CreacionUsuario/CampoPassword'), Password)
 
     WebUI.click(findTestObject('Object Repository/CreacionUsuario/ClickBotonSingUp'))
 
     WebUI.click(findTestObject('InicioSesion/LogIn'))
 
-    WebUI.setText(findTestObject('InicioSesion/CampoUserName'), 'MarceloPrueba1')
+    WebUI.setText(findTestObject('InicioSesion/CampoUserName'), Usuario)
 
-    WebUI.setText(findTestObject('InicioSesion/CampoPassword'), 'Marcelo1234')
+    WebUI.setText(findTestObject('InicioSesion/CampoPassword'), Password)
 
     WebUI.click(findTestObject('InicioSesion/BotonLogin'))
 
